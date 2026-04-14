@@ -24,7 +24,7 @@ Este proyecto permite a los usuarios **explorar productos, agregarlos al carrito
 Puedes ver el proyecto funcionando aquí:
 
 ```
-https://tuusuario.github.io/tu-repositorio
+https://franlopezam.github.io/ecommerse/
 ```
 
 ---
